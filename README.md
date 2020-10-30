@@ -17,3 +17,7 @@ To setup:
 To run:
 
 ./halloween-skeleton.py
+
+The kinect driver crashes sometimes, so use run.sh to keep running it in a loop.
+
+This doesn't work well on a multi-monitor setup, so make sure to turn off all but the main display when running.

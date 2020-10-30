@@ -72,6 +72,7 @@ cd Sensor-Bin-Linux-x64-v5.1.2.1
 sudo ./install.sh
 cd ..
 
+cd ..
 ln -s KinectLibs/NiTE-Linux-x64-2.2/Redist/NiTE2
 
 echo ""
